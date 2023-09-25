@@ -1,0 +1,1 @@
+Managing time-based tasks in JavaScript got easier with Croner, a powerful tool designed to trigger functions or evaluate cron expressions on various platforms. In this repo, a brief introduction on how to use Croner is given.
